@@ -1,0 +1,15 @@
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\bin\Debug\Blend_LoginDesign.exe.config
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\bin\Debug\Blend_LoginDesign.exe
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\bin\Debug\Blend_LoginDesign.pdb
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\MainWindow.g.cs
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\App.g.cs
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign_MarkupCompile.cache
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign_MarkupCompile.lref
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\MainWindow.baml
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.g.resources
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.Properties.Resources.resources
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.csproj.GenerateResource.cache
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.exe
+C:\Users\kukul\source\repos\Escritorio\Blend_LoginDesign\Blend_LoginDesign\obj\Debug\Blend_LoginDesign.pdb
