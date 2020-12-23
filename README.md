@@ -6,4 +6,4 @@ Al presionar uno de los botones en las opciones de 'Iniciar' y 'Crear' el área 
 Área para crear un nuevo usuario
 ![ScreenShot](https://raw.github.com/Gamas-G/DesignLoginWPF/master/screen/pantalla1.png)
 Área para iniciar sesion
-![ScreenShot](https://raw.github.com/Gamas-G/DesignLoginWPF/master/screen/pantalla1.png)
+![ScreenShot](https://raw.github.com/Gamas-G/DesignLoginWPF/master/screen/pantalla2.png)
